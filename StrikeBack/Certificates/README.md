@@ -1,0 +1,1 @@
+This code helps converting certificates from a `.p12` file to a C string in order to embed the certificate inside the source code of the malware.
